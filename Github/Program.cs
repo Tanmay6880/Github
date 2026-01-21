@@ -16,7 +16,7 @@ namespace Github
             int a=20;
             int b=10;
             int c=a+b;
-            Console.writeLine("addition is" +c);
+            Console.WriteLine("addition is" +c);
         }
         static void Main(string[] args)
         {
