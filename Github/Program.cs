@@ -12,10 +12,17 @@ namespace Github
         {
             Console.WriteLine("Welcome to first git project");
         }
+        void Add(){
+            int a=20;
+            int b=10;
+            int c=a+b;
+            Console.writeLine("addition is" +c);
+        }
         static void Main(string[] args)
         {
             Program p=new Program();
             p.Dispay();
+            p.Add();
             Console.ReadKey();
         }
     }
