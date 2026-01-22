@@ -10,7 +10,7 @@ namespace Github
     {
         public void Dispay()
         {
-            Console.WriteLine("zavada Bahi baba");
+            Console.WriteLine("add");
         }
         void Add(){
             int a=20;
