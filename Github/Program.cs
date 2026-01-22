@@ -8,10 +8,7 @@ namespace Github
 {
     internal class Program
     {
-        public void Dispay()
-        {
-            Console.WriteLine("zavada Bahi baba");
-        }
+        
         void Add(){
             int a=20;
             int b=10;
